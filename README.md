@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://x.com/arcadeai_sol" target="_blank">Twitter</a> <br/>
   <a href="https://www.arcadeai.fun/" target="_blank">Website</a> <br/>
-  CA: COMING SOON
+  CA: COMING SOON <br/>
 </div>
 
 
