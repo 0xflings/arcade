@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/0xflings/ARCADE/blob/main/public/favicon.png?raw=true" alt="Banner" />
+  <img src="https://github.com/x0FlyHigh/ARCADE/blob/main/public/favicon.png?raw=true" alt="Banner" />
 </div>
 
 <div align="center">
@@ -52,7 +52,7 @@ ARCADE is an AI-powered web application that lets users generate, play, and shar
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/0xflings/ARCADE.git
+git clone https://github.com/x0FlyHigh/ARCADE.git
 cd ARCADE
 ```
 
